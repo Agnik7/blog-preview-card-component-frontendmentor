@@ -24,8 +24,8 @@ Users should be able to:
 
 ### Links
 
-- Solution URL: [Add solution URL here](https://your-solution-url.com)
-- Live Site URL: [Add live site URL here](https://your-live-site-url.com)
+- Solution URL: [Solution](https://www.frontendmentor.io/solutions/blog-preview-component-using-reactjs-and-tailwindcss-sE8OZ8H5PT)
+- Live Site URL: [Live Site](https://blog-preview-card-component-frontendmentor.vercel.app/)
 
 ## My process
 
